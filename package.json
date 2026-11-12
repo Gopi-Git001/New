@@ -36,7 +36,7 @@
     "@types/react": "~19.3.0",
     "jpeg-js": "^0.4.4",
     "supabase": "3.0.0",
-    "typescript": "~6.0.3"
+    "typescript": "~7.0.2"
   },
   "scripts": {
     "start": "expo start",
